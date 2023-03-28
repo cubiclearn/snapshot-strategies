@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Example query",
+    "strategy": {
+      "name": "karma-quadratic-rating-of",
+      "params": {
+        "address": "0x...",
+        "symbol": "...",
+        "decimals": 0
+      }
+    },
+    "network": "1",
+    "addresses": [
+      "..."
+    ],
+    "snapshot": 11437846
+  }
+]
